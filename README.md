@@ -1,2 +1,2 @@
 # motion-alarm-clock-driver
- Driver code for the Motion-Snoozed Alarml Clock
+ Driver code for the Motion-Snoozed Alarm Clock
